@@ -1,0 +1,83 @@
+cd (hubicacion del proyecto )
+git init  = (para q inicie el proyecto) debe salir master 
+git add . = sube al repositorio todo lo q crea
+git commit -m "comentario" = es para poner comentario
+
+===================================================
+para inicion de sesion
+""""""""""""""""""""""""""""""""""""""""""""""""""""
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+====================================================
+Comprobar
+"""""""""""""""""""""""""""""""""""""""""""""""""""""
+git config command
+git config --list
+
+
+git branch -M main
+
+git remove add origin httos://direccion
+
+git push -u origin main
+
+====================================
+git config --global --list ==para comprobar
+======================================================================
+cd (ruta de carpeta para clonar un repositorio)
+
+git clone (link del repositorio para clonar)
+
+
+git push = envia el repositorio
+
+
+despues de clonar
+ls = para mostrar las carpetas que hay 
+
+
+cd (nombrecarpeta q aparecio)
+git pull = que actualiza esa carpeta como esta en el repositorio
+
+
+=======================================
+que hace git checkout -b cobol = fusionar las ramas
+
+
+git push origin --all = envia todas las amas 
+
+
+=====================================================
+
+cd (hubicacion de carpeta)
+git clone (ruta_github)
+
+ls
+(muestrala carpeta)
+
+cd (nombreCarpeta) = ingresas al main
+=======main
+git pull = actualiza la carpeta de la pc igual al del github
+
+
+
+
+
+
+git push origin --all = mete todas las carpetas a github
+
+
+
+
+
+
+
+
+
+
+
+
+
