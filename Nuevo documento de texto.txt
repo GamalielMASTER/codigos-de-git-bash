@@ -1,0 +1,17 @@
+https://us06web.zoom.us/w/87026155397?tk=m0VxXQSrd2xk2MxFaterg9gZXVM5nLYzUNT8vAbexwc.DQMAAAAUQym_hRZRa0JKamdISVMxdUhGNEtmcWpvRDF3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=dytwbHE2SnZCTVM5Y1JTalE2Y0crUT09
+
+
+composer require laravel/ui  =>interfaz 
+
+php artisan ui bootstrap --auth
+
+npm install ==
+
+=====================================================
+error para npm install
+
+=> se debe de instalar node-js
+=====================================================
+
+npm run dev == debe de aparecer laravel v9.39.0 pligun v0.6.1
+
